@@ -1,0 +1,21 @@
+#pokemon-button{
+    margin-top: 7%;
+    display: flex;
+    justify-content: center;
+}
+
+#pokemon-go{
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#pokemon{
+    width: 200px;
+    height: 200px;
+}
+
+.spacer{
+    width: 100vw;
+    height: 250px
+}
